@@ -10,7 +10,7 @@ function distanceFromHqInBlocks (blockNumber) {
 
 
 function distanceFromHqInFeet (distanceFromHqInBlocks){
-  if (distanceFromHqInBlocks
+   return distanceFromHqInBlocks * 264
   
   
 }
