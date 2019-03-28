@@ -9,7 +9,8 @@ function distanceFromHqInBlocks (blockNumber) {
 
 
 
-function distanceFromHqInFeet (){
+function distanceFromHqInFeet (distanceFromHqInBlocks){
+  if (distanceFromHqInBlocks
   
   
 }
